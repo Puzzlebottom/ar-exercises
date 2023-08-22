@@ -3,7 +3,7 @@ require_relative './exercise_1'
 require_relative './exercise_2'
 require_relative './exercise_3'
 
-puts 'Exercise 4'
+puts "\nExercise 4"
 puts '----------'
 
 Store.create(name: 'Surrey', annual_revenue: 224_000, womens_apparel: true)
